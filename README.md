@@ -19,7 +19,7 @@ The dataset utilized for this analysis is the "Mortality.csv" file, which compri
 ### Tools
 - Excel - Data Cleaning  [Download here](https://www.microsoft.com/en-us/microsoft-365/download-office)
 - Python - Data Cleaning  [Download here](https://www.anaconda.com/download)
-- SQL Server - Data Analysis [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- Postgree - Data Analysis [Download here](https://www.postgresql.org/download/)
 - Tableau - Creating reports  [Download here](https://www.tableau.com/community/public)
   
 ### Data cleaning/ Preparation
