@@ -30,7 +30,7 @@ In the initial data preparation phase, we performed the following tasks:
 3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
-EDA involved exploring the road accidents data to answer key questions, such as:
+EDA involved exploring the Mortality data to answer key questions, such as:
 
 - Which gender leads in mortality rates?
 - Which country has the highest number of deaths?
